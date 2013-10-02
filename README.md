@@ -1,4 +1,4 @@
-POJ_Code
+OJ_Problem_Code
 ========
 
-My codes to solve POJ's problems.
+My code to solve OJ problems.
