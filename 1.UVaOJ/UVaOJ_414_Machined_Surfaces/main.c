@@ -2,6 +2,7 @@
 #include <string.h>
 #define MAX 100
 /*
+ * URL:http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=94&page=show_problem&problem=355
  * 该行空格数量 = xmax - 该行X数量，
  * 其中，xmax为该组数据中，最多'X'那一行的'X'数量
  */

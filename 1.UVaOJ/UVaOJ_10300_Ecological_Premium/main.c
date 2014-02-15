@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-/*
+/* URL:http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=94&page=show_problem&problem=1241
  * 按照题目的计算方法得出公式：
  * 单个农民奖金=农场面积/动物数量*environmentfriendliness*动物数量
  * 化简后得：
